@@ -1,0 +1,16 @@
+{
+  "name": "nocolor",
+  "description": "A tiny library to color your terminal output",
+  "version": "1.1.0",
+  "repository": "https://github.com/franciscop/nocolor.git",
+  "bugs": "https://github.com/franciscop/nocolor/issues",
+  "funding": "https://www.paypal.me/franciscopresencia/19",
+  "author": "Francisco Presencia <public@francisco.io> (https://francisco.io/)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./demo.js"
+  },
+  "keywords": [],
+  "license": "MIT"
+}
