@@ -6,13 +6,24 @@
   "author": "Francisco Presencia <public@francisco.io> (https://francisco.io/)",
   "funding": "https://www.paypal.me/franciscopresencia/19",
   "license": "MIT",
-  "keywords": [],
+  "keywords": [
+    "color",
+    "colors",
+    "terminal",
+    "cli",
+    "ansi",
+    "console"
+  ],
   "scripts": {
-    "start": "node ./demo.js"
+    "start": "node ./demo.js",
+    "lint": "oxlint color.js"
   },
   "main": "index.js",
   "type": "module",
   "files": [
     "index.js"
-  ]
+  ],
+  "devDependencies": {
+    "oxlint": "^1.89.0"
+  }
 }
