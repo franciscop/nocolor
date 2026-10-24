@@ -16,6 +16,7 @@
   ],
   "scripts": {
     "start": "node ./demo.js",
+    "test": "bun test",
     "lint": "oxlint color.js"
   },
   "main": "color.js",

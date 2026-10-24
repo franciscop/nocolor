@@ -1,4 +1,4 @@
-# nocolor [![npm install nocolor](https://img.shields.io/badge/npm%20install-nocolor-blue.svg)](https://www.npmjs.com/package/nocolor) [![deps](https://img.shields.io/badge/deps-0-limegreen.svg)](https://github.com/franciscop/nocolor/blob/master/package.json)
+# nocolor [![npm install nocolor](https://img.shields.io/badge/npm%20install-nocolor-blue.svg)](https://www.npmjs.com/package/nocolor) [![tests](https://github.com/franciscop/nocolor/workflows/tests/badge.svg)](https://github.com/franciscop/nocolor/actions) [![deps](https://img.shields.io/badge/deps-0-limegreen.svg)](https://github.com/franciscop/nocolor/blob/master/package.json)
 
 A **copy/paste library** to color your terminal output! Maintained and documented on npm:
 
