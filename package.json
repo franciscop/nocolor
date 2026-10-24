@@ -1,6 +1,6 @@
 {
   "name": "nocolor",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A tiny library to color your terminal output",
   "repository": "github:franciscop/nocolor",
   "author": "Francisco Presencia <public@francisco.io> (https://francisco.io/)",
